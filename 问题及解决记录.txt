@@ -1,0 +1,4 @@
+解决vue-cli文件保存时eslint总是报错的问题
+https://juejin.im/post/5b19eb735188257d9417ab5a
+在config/index.js里配置
+useEslint: true, // 改为false即可
