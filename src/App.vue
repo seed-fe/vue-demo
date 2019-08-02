@@ -8,6 +8,7 @@
 </template>
 
 <script>
+  // vue用的是es6模块系统，export default指定模块的默认输出
 	export default {
 		name: 'App'
 	}
