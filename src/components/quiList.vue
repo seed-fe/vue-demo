@@ -20,7 +20,7 @@
     },
     components: {
       'qui-btn': quiButton
-    }，
+    },
     methods:{
       btnClickEvent:function(){
           alert('按钮点击事件')
