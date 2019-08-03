@@ -4,7 +4,7 @@ import index from '../pages/index.vue'
 import pageQuiButton from '../pages/pageQuiButton.vue'
 import pageQuiList from '../pages/pageQuiList.vue'
 import pageQuiNav from '../pages/pageQuiNav.vue'
-
+// 显示声明要用路由
 Vue.use(Router)
 
 export default new Router({
