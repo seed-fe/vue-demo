@@ -17,10 +17,10 @@ export default new Router({
     },
     {
     	path: '/btn',
-		name: 'btn',
-		component: pageQuiButton
+      name: 'btn',
+      component: pageQuiButton
     },
-	{
+    {
       path: '/list',
       name: 'list',
       component: pageQuiList
